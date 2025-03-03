@@ -42,7 +42,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnanshu-khanna&show_icons=true&layout=compact" alt="krishnanshu-khanna" width="230" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=krishnanshu-khanna&show_icons=true&locale=en" alt="krishnanshu-khanna" width="300" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanshu-khanna&" alt="krishnanshu-khanna" width="319" height="200" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=krishnanshu-khanna&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishnanshu-khanna&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="krishnanshu-khanna" /> </p>
 
